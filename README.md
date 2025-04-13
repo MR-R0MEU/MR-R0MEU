@@ -87,7 +87,7 @@ Sou Luiz Gustavo, desenvolvedor em formação e apaixonado por tecnologia, moran
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=MR-R0MEU&show_icons=true&theme=tokyonight&comits=true&lo"
 
-/>
+
 <img 
       align="left" 
       alt="GitHub Stats" 
