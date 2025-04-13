@@ -80,18 +80,17 @@ Sou Luiz Gustavo, desenvolvedor em formação e apaixonado por tecnologia, moran
 
 ### 📊 Estatísticas
 <p>
-<img
-    align="left" 
-    alt="github stats" 
-    height="200"
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MR-R0MEU&show_icons=true&theme=tokyonight&comits=true&lo"
-
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-R0MEU&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+<div style="display: flex; gap: 10px; align-items: flex-start;">
+  <img 
+    alt="GitHub Stats" 
+    height="150" 
+    src="https://github-readme-stats.vercel.app/api?username=MR-R0MEU&show_icons=true&theme=tokyonight&count_private=true"
   />
+
+  <img 
+    alt="Top Langs" 
+    height="150" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-R0MEU&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</div>
 
